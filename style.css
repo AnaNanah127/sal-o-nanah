@@ -1,3 +1,7 @@
+body{
+
+}
+
 #banner{
     width: 100%;
 }
@@ -5,7 +9,7 @@
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: navy;
+    color:deeppink;
     background-color: mediumslateblue;
-    
+
 }
