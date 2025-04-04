@@ -10,8 +10,18 @@ body{
     text-transform: uppercase;
     text-align: center;
     color:deeppink;
-    background-color: mediumslateblue;
+    background-color:bisque;
     padding: 50px;
     margin: 0px;
 
+}
+
+.titulo2{
+    color: azure;
+    font-family: sans-serif;
+}
+
+.principa{
+    background-color: hotpink;
+    padding: 30px;
 }
