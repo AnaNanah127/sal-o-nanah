@@ -1,5 +1,5 @@
 header{
-    background: #BBBBBB;
+    background-color:rgb(108, 197, 224);
     padding: 20px 0;
 }
 
@@ -32,6 +32,8 @@ nav a:hover{
     color: #C78C19;
     text-decoration: underline;
 }
+
+
 
 .produtos{
     width: 940px;
